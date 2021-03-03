@@ -18,9 +18,14 @@ ff02::3 ip6-allhosts
 
 # End of custom host records.
 
+# Distracting websites
 #=====================================
-
 0.0.0.0 reddit.com
 0.0.0.0 youtube.com
 0.0.0.0 www.reddit.com
 0.0.0.0 www.youtube.com
+
+# Websites with annoying cookie policies
+#=====================================
+0.0.0.0 www.healthline.com
+0.0.0.0 healthline.com
