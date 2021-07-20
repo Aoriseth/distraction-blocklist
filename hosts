@@ -24,6 +24,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtube.com
 0.0.0.0 www.reddit.com
 0.0.0.0 www.youtube.com
+0.0.0.0 news.google.com
+0.0.0.0 www.news.google.com
+
 
 # Websites with annoying cookie policies
 #=====================================
