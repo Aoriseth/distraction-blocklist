@@ -1,4 +1,4 @@
-# distraction-blocklist
+# Distraction blocklist
 
 Add  
 `https://raw.githubusercontent.com/Aoriseth/distraction-blocklist/main/hosts`  
